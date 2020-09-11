@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Manoj](https://virtualmanu.herokuapp.com) on cloud !
+# Hi there 👋 I am [Manoj](https://virtualmanu.herokuapp.com) !
 
 
  🔭 I’m currently working on some secret projects
