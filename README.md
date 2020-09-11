@@ -1,6 +1,6 @@
 # Hi there 👋 I am [Manoj](https://virtualmanu.herokuapp.com) on cloud !
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=virtualmanu)
+![Github stats](https://github-readme-stats.vercel.app/api?username=virtualmanu&theme=highcontrast&show_icons=true)
 
  🔭 I’m currently working on some secret projects
 
