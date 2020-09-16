@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Manoj](https://virtualmanu.herokuapp.com) !
+# Hi there 👋 I am [Manoj](https://virtualmanu.github.io) !
 
 
  🔭 I’m currently working on some secret projects
