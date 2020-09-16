@@ -2,10 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
- 🔭 I’m currently working on some secret projects
+ 🔭 I’m currently working on some secret projects                      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  
  ⚡ Fun fact: We are all in a simulation
- 
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=virtualmanu&theme=highcontrast&show_icons=true&count_private=true)
 
