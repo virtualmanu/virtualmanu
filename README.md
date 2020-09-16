@@ -1,5 +1,6 @@
 # Hi there 👋 I am [Manoj](https://virtualmanu.github.io) !
 
+![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
  🔭 I’m currently working on some secret projects
  
@@ -12,6 +13,7 @@
 <!--
 **virtualmanu/virtualmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtualmanu&theme=highcontrast)
+![image title](https://rushter.com/counter.svg)
 
 Here are some ideas to get you started:
 
