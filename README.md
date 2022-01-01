@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Manoj](https://virtualmanu.github.io) !
+# Hi there 👋 checkout my [portfolio](https://virtualmanu.github.io) !
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
