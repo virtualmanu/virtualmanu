@@ -1,74 +1,33 @@
 body{
-	font: Arial, Helvetica, sans-serif;
-	width:100%;	height:100%;
-	position: relative;
+    margin: 0px;
+    text-align: center;
 }
 
-.my_sidebar{
-	position:fixed;
-	top:0; left:0;
-	width:26%; height:100%;
-	background:#F7F7F7;
-	overflow-y:scroll;overflow-x:hidden;
+header .title{
+    font-family: 'BluuNextBold';
+    font-size:xx-large;
 }
 
-.my_content{
-	position: relative;
-	padding-left: 200px;
-	top: 20px;
+nav a{
+	color: blue;
+    text-decoration: none;
+    font-weight: 500;
 }
 
-.my_content a{
-	color:#014e11;
-}
-
-.my_content a:hover {
+nav a:hover {
   color: hotpink;
+  cursor: pointer;
+  text-decoration: underline;
 }
 
-.my_sidebar a{
-	color:#014e11;
+.container{
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
 }
 
-.my_sidebar a:hover {
- 	 color: hotpink;
+.align-left{
+    display: flex;
+    justify-content: flex-start;
 }
-
-.social li{
-	display: inline;
-}
-
-.fa { transform: scale(.8,.8); }
-
-.social a{
-	color:grey;
-}
-
-.social a:hover{
-	text-decoration: none;
-	color: black;
-}
-
-.sidebar_content{
-	padding-left:40px; padding-right:20px;
-}
-
-ul{
-	list-style-type: none;
-}
-
-
-@media screen and (max-width:600px){
-	.my_sidebar{
-		position:relative;
-		top:0; left:0;
-		width:100%; height:57%;
-		background:#F7F7F7;
-	}
-
-	.my_content{
-		position: relative;
-		padding-left:20px;
-		top: 30px;
-	}
-} 
