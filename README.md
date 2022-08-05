@@ -1,7 +1,7 @@
 # Hello there 👋 !
 
-🔭 I'm currently working as a Full Stack Developer (Angular/Spring)
-🌱 Also experimenting with Flutter
+- 🔭 I'm currently working as a Full Stack Developer
+- 🌱 Also experimenting with Flutter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
