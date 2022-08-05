@@ -1,4 +1,8 @@
-# Hi there 👋 checkout my [portfolio](https://virtualmanu.github.io) !
+# Hello there 👋 !
+
+- 🔭 Working as Full Stack Developer (Angular/Spring)
+- 🌱 Experimenting with Flutter
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
@@ -14,14 +18,13 @@
 
 Here are some ideas to get you started:
 
+- # Hi there 👋 checkout my [portfolio](https://virtualmanu.github.io) !
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--  🔭 I’m currently working on some secret projects
 - ⚡ Fun fact: We are all in a simulation
 
 -->
