@@ -1,7 +1,3 @@
-# Hello there 👋 !
-
-- 🔭 I am professionally working as a Software Engineer using Spring Boot and Azure.
-- 🌱 Also exploring distributed systems and Big Data technologies on the side.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virtualmanu&color=brightgreen)
 
@@ -26,4 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: We are all in a simulation
  
+# Hello there 👋 !
+
+- 🔭 I am professionally working as a Software Engineer using Spring Boot and Azure.
+- 🌱 Also exploring distributed systems and Big Data technologies on the side.
+
 -->
